@@ -5,9 +5,5 @@ __pycache__
 
 # Environments 
 .env 
-.venv 
-env/ 
-venv/ 
-ENV/ 
-env.bak/ 
-venv.bak/ 
+FIRE_CRAWL_API_KEY=fc-70ea2858608f4ca4844db97246b3e562
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/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
